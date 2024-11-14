@@ -9,7 +9,7 @@ Whether it’s crafting seamless user experiences or developing powerful server-
 Skills: HTML/ CSS/ JS/ TAILWIND/ BOOTSTRAP/ PHP/ LARAVEL/ SASS
 
 - 🔭 I’m currently working on Ecommerce Website 
-- 🌱 I’m currently learning React JS 
+- 🌱 I’m currently learning Next JS 
 - 👯 I’m looking to collaborate on - **Web Development**: Full-stack projects using Laravel and PHP, as well as front-end frameworks like React. - **Open Source Contributions**: I would love to contribute to open-source projects that focus on web applications or tools that benefit developers. 
 - 📫 How to reach me: sksara706@gmail.com 
 
