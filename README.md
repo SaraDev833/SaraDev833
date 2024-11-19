@@ -6,7 +6,8 @@ My primary focus is on Laravel and PHP, where I enjoy building robust and scalab
 
 Whether it’s crafting seamless user experiences or developing powerful server-side logic, I strive to deliver high-quality solutions that meet user needs and exceed expectations.
 
-Skills: HTML/ CSS/ JS/ TAILWIND/ BOOTSTRAP/ PHP/ LARAVEL/ SASS
+Skills: HTML/ CSS/ JS/ TAILWIND/ BOOTSTRAP/ PHP/ LARAVEL/ SASS / React
+
 
 - 🔭 I’m currently working on Ecommerce Website 
 - 🌱 I’m currently learning Next JS 
